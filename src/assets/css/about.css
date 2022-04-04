@@ -1,0 +1,31 @@
+*{
+    background-color: #f1f1f1;
+}
+
+.bodyabout{
+    margin: 0 auto;
+    margin-top: 10%;
+    width: 95%;
+    padding: 25px;
+    padding-bottom:  40px;
+    box-shadow:
+  4.5px 4.5px 3.6px rgba(0, 0, 0, 0.006),
+  12.5px 12.5px 10px rgba(0, 0, 0, 0.009),
+  30.1px 30.1px 24.1px rgba(0, 0, 0, 0.011),
+  100px 100px 80px rgba(0, 0, 0, 0.02)
+;
+
+}
+.about{
+    margin-left: 50px;
+}
+h2{
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 15px;
+}
+ol{
+    list-style:decimal;
+
+}
